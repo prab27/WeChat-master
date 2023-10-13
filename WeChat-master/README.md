@@ -36,6 +36,6 @@
 ![d](./pics/phone_chat.jpeg)
 
 ## 📄 Credit
-- Vikas Kushwaha
-- Connect with me [LinkedIn](https://linkedin.com/in/vikas-kushwaha-165b95204)
+- Prabal Pratap Singh
+- Connect with me [LinkedIn](https://www.linkedin.com/in/prabal-pratap-singh-36a4021aa/)
 
